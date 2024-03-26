@@ -1,3 +1,4 @@
-func 1 -1.414213562373095 0
-eps 0.1
-interval 0 2
+func x*(x-sqrt(2))
+eps 0.001
+interval -0.5 2
+n 10
